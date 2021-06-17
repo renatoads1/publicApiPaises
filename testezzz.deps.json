@@ -29,7 +29,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "webapiteste/1.0.0": {
+      "testezzz/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -315,7 +315,7 @@
           "WindowsBase": "4.0.0.0"
         },
         "compile": {
-          "webapiteste.dll": {}
+          "testezzz.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -1730,7 +1730,7 @@
       }
     },
     ".NETCoreApp,Version=v3.1/linux-x64": {
-      "webapiteste/1.0.0": {
+      "testezzz/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -2016,13 +2016,13 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "webapiteste.dll": {}
+          "testezzz.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "webapiteste/1.0.0": {
+    "testezzz/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
